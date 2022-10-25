@@ -7,6 +7,40 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- SPLASH -->
+        <div>
+            <div class="intro">
+                <div class="intro-text">
+                    <h1 class="hide">
+                        <span class="text"><img src="assets/img/logo_putih.png" width="250px" alt=""></span>
+                    </h1>
+                </div>
+            </div>
+            <div class="slider"></div>
+        </div>
+
+        <!-- NAVBAR -->
+        <nav class="sticky top-0 bg-white/75 backdrop-blur-lg grid grid-cols-2 py-2 px-14 z-50">
+            <div class="ml-10">
+                <a href=""><img src="assets/img/logofix.png" id="logo" width="70px" /></a>
+            </div>
+            <div class="flex justify-end gap-8 m-6 mx-7">
+                <a href="#bagian0" class="hover:text-green-800 transition duration-300 ease-in">ACHIEVEMENT</a>
+                <a href="#bagian1" class="hover:text-green-800 transition duration-300 ease-in">PROMOTION</a>
+                <a href="#bagian2" class="hover:text-green-800 transition duration-300 ease-in">MENU</a>
+                <a href="" class="hover:text-green-800 transition duration-300 ease-in">OURSTORY</a>
+                <a href="" class="hover:text-green-800 transition duration-300 ease-in">FEEDBACK</a>
+                <!-- <a href="" class="flex mt-0.5">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                    </svg>
+                </a> -->
+            </div>
+        </nav>
     <footer class="mt-24">
             <div class="px-10 p-4 bg-gray-100 text-black">
                 <div class="">
