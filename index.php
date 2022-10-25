@@ -41,6 +41,27 @@
                 </a> -->
             </div>
         </nav>
+  
+  <!-- BACKGROUND -->
+        <div class="absolute z-0 h-1/2">
+            <img src="assets/img/background2.png" alt="">
+        </div>
+  
+  <!-- CAROUSEL -->
+        <div class="my-10 mr-0">
+            <div class="kotak js-flickity" data-flickity-options='{ "wrapAround": true }'>
+                <div class="kotak-kotak">
+                    <img src="assets/img/banner2.jpg" alt="" class="" id="image">
+                </div>
+                <div class="kotak-kotak">
+                    <img src="assets/img/banner3.jpg" alt="">
+                </div>
+                <div class="kotak-kotak">
+                    <img src="assets/img/banner1.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    
     <!-- ACHIEVEMENT -->
         <div class="mt-44">
             <section id="bagian0" class="sectionSize bg-black text-white text-center">
@@ -108,6 +129,7 @@
                         Read More
                     </button>
                 </div>
+                
     <!-- MENU -->
                 <div class="flex-1 flex flex-col mx-6 shadow-2xl relative rounded-2xl py-5 px-8 mb-8 md:top-8">
                     <h3 class="font-normal text-2xl mb-4">
