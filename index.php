@@ -41,6 +41,115 @@
                 </a> -->
             </div>
         </nav>
+    <!-- ACHIEVEMENT -->
+        <div class="mt-44">
+            <section id="bagian0" class="sectionSize bg-black text-white text-center">
+                <div class="flex w-full flex-col md:flex-row gap-3 pb-10">
+                    <div class="flex-1 flex flex-col mx-6 relative rounded-2xl px-8">
+                        <img src="assets/img/putih_2.png" width="300px" alt="">
+                        <div>
+                            <h1 class="font-bold">HALAL CERTIFICATION</h1>
+                            <br>
+                            <p>5% coffee strengten its commitment to
+                                serve the best quality product and become the first Kopi Susu
+                                Kekinian to obtain Halal Certification from Majelis Ulama Indonesia</p>
+                        </div>
+                    </div>
+
+                    <div class="flex-1 flex flex-col mx-6 relative rounded-2xl px-8">
+                        <div class="mx-auto py-8">
+                            <img src="assets/img/putih_3.png" width="140px" class="" alt="">
+                        </div>
+                        <div class="">
+                            <h1 class="font-bold">COFFEE JOURNEY</h1>
+                            <br>
+                            <p>Since 2017, it always has been and will always be about quality.
+                                We work relentlessly to guarantee we deliver on our promise. From harvest, tasting,
+                                roasting and working together with the producers in Indonesia to produce the best crop to our customers.
+                                Our passion for coffee is rivaled only by our love of sharing it.</p>
+                        </div>
+                    </div>
+
+                    <div class="flex-1 flex flex-col mx-6 relative rounded-2xl px-8 ">
+                        <img src="assets/img/putih_1.png" width="300px" alt="">
+                        <div>
+                            <h1 class="font-bold">WORLD BEST BRAND WINNER</h1>
+                            <br>
+                            <p>5% has been appointed as the only Brand of The Year winner
+                                in the Café Chain category from Indonesia by The World Branding Awards.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- NEWS -->
+        <section id="bagian2" class="sectionSize">
+            <br>
+            <div class="mt-18">
+                <h2 class="font-bold text-3xl bg-100%">New Menu</h2>
+            </div>
+            <div class="flex w-full flex-col md:flex-row">
+                <div class="flex-1 flex flex-col mx-6 shadow-2xl relative rounded-2xl py-5 px-8 mb-8 md:top-8">
+                    <h3 class="font-normal text-2xl mb-4">
+                        Iced Latte
+                    </h3>
+                    <div class="mx-auto">
+                        <img src="assets/img/mockup7.png" class="w-44" alt="">
+                    </div>
+                    <div class="font-bold text-2xl mb-4">
+                        $15
+                        <span class="font-normal text-base"> / cup</span>
+                    </div>
+                    <div>
+                        <p>Two shots of Espresso with fresh milk without sugar</p>
+                    </div>
+                    <button class="border-2 border-solid border-black rounded-xl text-lg py-2 mt-16">
+                        Read More
+                    </button>
+                </div>
+    <!-- MENU -->
+                <div class="flex-1 flex flex-col mx-6 shadow-2xl relative rounded-2xl py-5 px-8 mb-8 md:top-8">
+                    <h3 class="font-normal text-2xl mb-4">
+                        Iced Palm Sugar
+                    </h3>
+                    <div class="mx-auto">
+                        <img src="assets/img/mockup8.png" class="w-44" alt="">
+                    </div>
+                    <div class="font-bold text-2xl mb-4">
+                        $25
+                        <span class="font-normal text-base"> / cup</span>
+                    </div>
+                    <div>
+                        <p>Two shots of Espresso with a combination of the sweetness of palm sugar and fresh milk</p>
+                    </div>
+                    <button class="border-2 border-solid border-black rounded-xl text-lg py-2 mt-4">
+                        Read More
+                    </button>
+                </div>
+
+                <div class="flex-1 flex flex-col mx-6 shadow-2xl relative rounded-2xl py-5 px-8 mb-8 md:top-8">
+                    <h3 class="font-normal text-2xl mb-4">
+                        Iced Mocha
+                    </h3>
+                    <div class="mx-auto">
+                        <img src="assets/img/mockup6.png" class="w-44" alt="">
+                    </div>
+                    <div class="font-bold text-2xl mb-4">
+                        $10
+                        <span class="font-normal text-base"> / cup</span>
+                    </div>
+                    <div>
+                        <p>Two shots of Espresso with 5% coffee's signature chocolate and fresh milk</p>
+                    </div>
+                    <button class="border-2 border-solid border-black rounded-xl text-lg py-2 mt-10">
+                        Read More
+                    </button>
+                </div>
+            </div>
+        </section>
+    
+<!-- FOOTER -->
     <footer class="mt-24">
             <div class="px-10 p-4 bg-gray-100 text-black">
                 <div class="">
